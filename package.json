@@ -1,0 +1,18 @@
+{
+  "name": "sheridan_bot",
+  "version": "1.0.5",
+  "description": "Bot Setup for Sheridan IT Support",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "claudia:create": "claudia create --name SBot --region us-east-1 --api-module bot",
+    "configure-fb": "claudia update --configure-fb-bot"
+  },
+  "author": "Prabhdeep Singh",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": " ^2.3",
+    "claudia-bot-builder": "^1.0.0",
+    "node-wit": "^3.3.2"
+  }
+}
