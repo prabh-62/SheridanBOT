@@ -1,6 +1,6 @@
-# SheridanBOT
+# SheridanBOT  **Unofficial**
 
-Facebook Messenger bot to help students/employees with IT issues at Sheridan College
+Facebook Messenger bot to help students/employees with IT issues at Sheridan College 
 
 
 ___
@@ -33,9 +33,10 @@ ___
   
 ### Demo
 
-[Chat with Messenger](http://m.me/sheridanBot)
+[Realtime Chat in FB Messenger](http://m.me/sheridanBot)
 
 * Write sentences like 
    *  **I would like to book a video conference**
    *  **I think I forgot my password**
 
+![GIF: Implementation of SheridanBOT](media/sheridanBot.gif)
