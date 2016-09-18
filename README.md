@@ -19,7 +19,7 @@ ___
 
 ### AWS Credentials Setup on Windows
 * Create Credentials file in `C:\Users\USERNAME \.aws\credentials`
-* Retreive credentials from [Amazon IAM Console](http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-set-up.html#cli-signup)
+* Retreive credentials from [Amazon IAM Console](http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-set-up.html#cli-signup) and copy them in credentials file. Example below:
 
   `[default]` 
   
@@ -35,7 +35,7 @@ ___
 
 [Realtime Chat in FB Messenger](http://m.me/sheridanBot)
 
-* Write sentences like 
+* Try typing statements like 
    *  **I would like to book a video conference**
    *  **I think I forgot my password**
 
